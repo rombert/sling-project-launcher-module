@@ -1,0 +1,6 @@
+{
+  "id":"${project.groupId}:${project.artifactId}:slingosgifeature:launcher:${project.version}",
+  "bundles": [
+    "com.example/core/1.0.0-SNAPSHOT"
+  ]
+}
